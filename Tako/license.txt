@@ -1,0 +1,11 @@
+Model Information:
+* title:	Low-Poly Takodachi (hololive EN)
+* source:	https://sketchfab.com/3d-models/low-poly-takodachi-hololive-en-856e15222af24c769ddc5cd0d397d228
+* author:	mariusmunier (https://sketchfab.com/mariusmunier)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Low-Poly Takodachi (hololive EN)" (https://sketchfab.com/3d-models/low-poly-takodachi-hololive-en-856e15222af24c769ddc5cd0d397d228) by mariusmunier (https://sketchfab.com/mariusmunier) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
